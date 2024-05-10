@@ -15,8 +15,8 @@ I used the [trained model](https://pjreddie.com/darknet/yolo/) here.
 
 ## RESULTS
 <p align="center">
-<img src="/results/pi_camera.jpg" style="width:80%">
+<img src="/result/pi_camera.jpg" style="width:80%">
 </p>
 <p align="center">
-<img src="/results/usb_camera.png" style="width:80%">
+<img src="/result/usb_camera.png" style="width:80%">
 </p>

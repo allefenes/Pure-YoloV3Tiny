@@ -7,7 +7,7 @@ Pure Basic YoloV3-Tiny Application On Raspberry Pi
 (It cannot be uploaded to the repository because the file size is large.)
 
 <p align="center">
-<img src="weights.png" style="width:80%">
+<img src="weight.png" style="width:80%">
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="30" height="30" /> Tested System Components
